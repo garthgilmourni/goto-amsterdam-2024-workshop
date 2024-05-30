@@ -16,10 +16,10 @@ Full details can be found in the slide deck used to deliver the workshop. Please
 * *ktor-web-applications-finish* - As above, but with the additional features implemented.
 * *ktor-rest-start* - The example rewritten as a JavaScript Single Page Application interacting with a Ktor RESTful Service. With room for expansion.
 * *ktor-rest-finish* - The above example, with full functionality
-* *ktor-rest-with-testing* - The above example, refactored to support Dependency Injection. Which then allows us to create a suite of tests using the Ktor Test Framework.
-* *ktor-compose-client* - A full stack application. We use Compose Multiplatform for Desktop and the Ktor Client to interact with the RESTful service. NB this was created via the [Kotlin Multiplatform Wizard](https://kmp.jetbrains.com/).
-* *ktor-rest-exposed-start* - Our REST / SPA based application, but now talking to a PostgreSQL database via a repository implemented using the Exposed Framework. With two tasks to complete.
-* *ktor-rest-exposed-finish* - The completed version of the above.
+* *ktor-testing-start* - The above example, refactored to support Dependency Injection. Which then allows us to create a suite of tests using the Ktor Test Framework.
+* *ktor-client-start* - A full stack application. We use Compose Multiplatform for Desktop and the Ktor Client to interact with the RESTful service. NB this was created via the [Kotlin Multiplatform Wizard](https://kmp.jetbrains.com/).
+* *ktor-exposed-start* - Our REST / SPA based application, but now talking to a PostgreSQL database via a repository implemented using the Exposed Framework. With two tasks to complete.
+* *ktor-exposed-finish* - The completed version of the above.
 
 ### Front end projects, using KMP and Compose Multiplatform
  * TODO
