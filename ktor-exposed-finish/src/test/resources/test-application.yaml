@@ -1,0 +1,6 @@
+ktor:
+    application:
+        modules:
+            - org.exercises.ApplicationKt.testModule
+    deployment:
+        port: 8080
