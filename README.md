@@ -29,3 +29,4 @@ Full details can be found in the slide deck used to deliver the workshop. Please
 * *kmp-weather-networking-finish* - As above, but with all the networking code written.
 * *kmp-weather-native-start* - A completed weather application. Except for the ability to detect the users current locale. This needs to be implemented in a platform specific way, via expected and actual declarations.
 * *kmp-weather-native-finish* - The completed version of the above.
+* *kmp-multiplatform-testing-start* - A example of how to test platform specific functionality.
