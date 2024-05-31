@@ -27,3 +27,5 @@ node_modules/
 bundle.js
 .mvn
 .eslintcache
+local.properties
+
