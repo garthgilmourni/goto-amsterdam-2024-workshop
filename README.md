@@ -5,7 +5,7 @@ This repository contains a series of independant Kotlin / Gradle projects, to be
 
 Full details can be found in the slide deck used to deliver the workshop. Please note that:
 
-* All the projects are independent. Opening the entire repo in an IDE will take a very long time and so is not recommended. 
+* All the projects are independent. Opening the entire repo in an IDE will take a very long time and is not recommended. 
 * After cloning this repository, you will need to make the *gradlew* scripts executable if you intend to build and run the projects manually.
 
 ### Back end projects, using Ktor and Exposed
@@ -22,4 +22,10 @@ Full details can be found in the slide deck used to deliver the workshop. Please
 * *ktor-exposed-finish* - The completed version of the above.
 
 ### Front end projects, using KMP and Compose Multiplatform
- * TODO
+
+ * *kmp-weather-basic-start* - A skeleton multiplatform app for viewing the weather in different capital cities around the world. With several UI related tasks to complete.
+* *kmp-weather-basic-finish* - As above, but with full UI functionality.
+* *kmp-weather-networking-start* - The weather application, now with partial networking functionality. 
+* *kmp-weather-networking-finish* - As above, but with all the networking code written.
+* *kmp-weather-native-start* - A completed weather application. Except for the ability to detect the users current locale. This needs to be implemented in a platform specific way, via expected and actual declarations.
+* *kmp-weather-native-finish* - The completed version of the above.
